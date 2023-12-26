@@ -1,0 +1,32 @@
+_repo: Kotivarkaus-b-Kuvaus-Ita-Suomesta_72383
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Suppanen, Adolf
+    - Aatto S.
+    - S., Aatto
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: https://fi.wikipedia.org/wiki/Aatto_Suppanen
+description: ''
+gutenberg_issued: '2023-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72383'
+language: fi
+pgterms:marc905: 20231207031917suppanen
+pgterms:marc906: '1888'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWerner Söderström, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kotivarkaus : $b Kuvaus Itä-Suomesta'
+url: http://www.gutenberg.org/ebooks/72383
